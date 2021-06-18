@@ -24,6 +24,8 @@
 - CPU SIMD
 	- AVX
 	- NEON
+## Publications
+- 近藤鯛貴, 竹田大将, ["Raspberry Pi GPGPU【入門】"](https://lowlayerlovers.booth.pm/), 技術書展7
 
 ## Conference Presentations
 - **近藤鯛貴**, 竹田大将, 佐藤裕幸, “Intel HD GraphicsにおけるResnet50の高速化”, 研究報告ハイパフォーマンスコンピューティング(HPC), Vol2020-HPC-177, No2, ppl1-6 

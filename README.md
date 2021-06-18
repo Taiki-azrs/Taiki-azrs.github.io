@@ -1,6 +1,6 @@
 # Taiki Kondo(近藤鯛貴)
 ## Current Status
-- CEO of [Defios inc.](defios.jp)
+- CEO of [Defios inc.](https://www.defios.jp/)
 - Graduate School of Software and Information Science, Iwate Prefectual University(Master)
 - Idein inc. Engineer
 

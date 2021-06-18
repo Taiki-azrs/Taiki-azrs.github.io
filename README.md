@@ -3,11 +3,14 @@
 - CEO of [Defios inc.](defios.jp)
 - Graduate School of Software and Information Science, Iwate Prefectual University(Master)
 - Idein inc. Engineer
+
 ## Accounts
+
 - [Twitter](https://twitter.com/Taiki_azrs)
 - [github](https://github.com/Taiki-azrs)
 - [Facebook](https://www.facebook.com/kontaiml)
 - [Blog](https://taiki-azrs.hatenablog.com/)
+
 ## Skills/Interests
 - Programming
 	- C/C++
@@ -32,7 +35,6 @@
 - 竹田大将,  **近藤鯛貴**,  木綱啓人,  佐藤裕幸,  杉野栄二,” 低価格演算ボードによる超解像実現に向けたTotal Variation 正則化分離の実装と評価”, 信学技報, vol. 118, no. 501, IE2018-123, pp. 97-102, 2019年3月.
 
 ## Accomplishments
-
 ### enPiT PBL
 - 2018:低価格演算ボードを用いたタイルドディスプレイ構築に関する研究(**代表**）
 	- 北海道・東北グループ合同発表会 **最優秀賞**
@@ -41,5 +43,6 @@
 	- 最終発表 **最優秀賞**
 - 2020:PC-98を用いた数値計算実装によるプロセッサ進化の実測性能評価
 	- 最終発表 **優秀賞**
+
 ### Qualification
 - 応用情報技術者

@@ -24,6 +24,7 @@
 - CPU SIMD
 	- AVX
 	- NEON
+
 ## Publications
 - 近藤鯛貴, 竹田大将, ["Raspberry Pi GPGPU【入門】"](https://lowlayerlovers.booth.pm/), 技術書展7
 

@@ -2,7 +2,10 @@
 ## Current Status
 - CEO of [Defios inc.](https://www.defios.jp/)
 - Graduate School of Software and Information Science, Iwate Prefectual University(Master)
-- Idein inc. Engineer
+
+## Work Experience
+- Idein inc. R&D Engineer(2019~2021.8)
+- Defios inc. CEO(2021.6~)
 
 ## Accounts
 

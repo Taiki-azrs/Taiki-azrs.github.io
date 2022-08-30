@@ -27,9 +27,13 @@
 - CPU SIMD
 	- AVX
 	- NEON
+- Image Processing
+- Machine Learning
 
 ## Publications
-- 近藤鯛貴, 竹田大将, ["Raspberry Pi GPGPU【入門】"](https://lowlayerlovers.booth.pm/), 技術書展7
+- 近藤鯛貴, 竹田大将, ["Raspberry Pi GPGPU【入門】"](https://lowlayerlovers.booth.pm/), 技術書典7
+- 岩手県立大学低レイヤ同好会, ["【令和版】PC-98x1 C言語プログラミング入門"](https://techbookfest.org/product/4659953830723584?productVariantID=5918438637699072&utm_campaign=share&utm_medium=social&utm_source=twitter), 技術書典11
+- 近藤鯛貴, 竹田大将, 佐藤裕幸, ["第4部　インテルCPU内蔵のGPUを利用して処理を高速化"](https://shop.cqpub.co.jp/hanbai/books/MIF/MIF202208.html), Interface 2022年8月号, pp96-116, CQ出版社
 
 ## Conference Presentations
 - **近藤鯛貴**, 竹田大将, 佐藤裕幸, “Intel HD GraphicsにおけるResnet50の高速化”, 研究報告ハイパフォーマンスコンピューティング(HPC), Vol2020-HPC-177, No2, ppl1-6 

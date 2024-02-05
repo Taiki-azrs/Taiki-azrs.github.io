@@ -43,6 +43,7 @@
 - 竹田大将,  **近藤鯛貴**, 佐藤裕幸,  杉野栄二,” Intel HD GraphicsでのAES暗号化の実装とその分析”, 研究報告ハイパフォーマンスコンピューティング(HPC),Vol2020-HPC-177, No18, ppl1-6,
 -  竹田 大将, **近藤 鯛貴**, 佐藤 裕幸, 杉野 栄二,” RaspberryPi上のVideoCore IVによる超解像処理Total Variation正則化分離の実装と評価”, 研究報告ハイパフォーマンスコンピューティング(HPC), Vol2019-HPC-172, No3, ppl1-7
 - 竹田大将,  **近藤鯛貴**,  木綱啓人,  佐藤裕幸,  杉野栄二,” 低価格演算ボードによる超解像実現に向けたTotal Variation 正則化分離の実装と評価”, 信学技報, vol. 118, no. 501, IE2018-123, pp. 97-102, 2019年3月.
+- **T. Kondo** and H. Sato, "Accelerating Convolution Neural Networks in Embedded Intel GPUs," 2022 Tenth International Symposium on Computing and Networking Workshops (CANDARW), Himeji, Japan, 2022, pp. 109-113, doi: 10.1109/CANDARW57323.2022.00060.
 
 ## Accomplishments
 ### enPiT PBL
